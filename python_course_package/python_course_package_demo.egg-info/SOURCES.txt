@@ -1,0 +1,7 @@
+setup.py
+python_corse_code/__init__.py
+python_corse_code/foo.py
+python_course_package_demo.egg-info/PKG-INFO
+python_course_package_demo.egg-info/SOURCES.txt
+python_course_package_demo.egg-info/dependency_links.txt
+python_course_package_demo.egg-info/top_level.txt
